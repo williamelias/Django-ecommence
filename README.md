@@ -1,4 +1,4 @@
-# Ecommence with Django 2.0
+# Ecommerce with Django 2.0
 
 #About
 
